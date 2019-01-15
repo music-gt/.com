@@ -1,0 +1,147 @@
+
+    table {
+  font-family: arial, sans-serif;
+  
+  width: 100%;
+}
+
+td, th {
+  
+  text-align: left;
+  padding: 8px;
+}
+
+
+
+#myInput{
+	width:150px;
+	height:25px;
+	background-color :black ;
+	color:steelblue;
+	border-radius:10px 10px;
+    border-bottom-color:gold;
+}
+
+body{
+           background-image: url(http://cs2.gamemodding.net/images/2ffdb984e0b790bb6122ecb0a61e8e8386ff871384d439a45de2f91751b8a64b.jpg);
+       }
+       
+       .y{
+           opacity: 0.8;
+    
+background-image: url(https://image.freepik.com/vector-gratis/tecnologia-digital-sound-wave-sobre-fondo-azul_34926-27.jpg);
+           color:white;
+       }
+       #home{
+           width:200px;
+	background-color :silver;
+	color:steelblue;
+	border-radius:10px 10px;
+        text-align: center;
+       }
+       
+       #float{
+           width:300px;
+           Float:left;
+           Padding:25px;
+           
+       }
+#input{
+    width:450px;
+	height:35px;
+	border-radius:20px 20px;
+    background-image: url(https://wallpaperbrowse.com/media/images/704532.jpg);
+    
+    
+}
+
+#description{
+    width:350px;
+	height:35px;
+	color:aquamarine;
+	border-radius:20px 20px;
+    background-image: url(https://i.ytimg.com/vi/UnTeBC2YwK0/maxresdefault.jpg);
+    
+}
+
+#download{
+    width:170px;
+    background-color:black;
+    color:aquamarine;
+}  
+
+#foo{
+    width:auto;
+    height:125px;
+   background-color:dodgerblue;
+    color:midnightblue;
+}  
+#app{
+    color:white;
+}
+
+#h3{
+    width:200px;
+    background-color:blue;
+    color:orange;
+    border-radius:10px 10px;
+}
+#h3:hover{
+    cursor:pointer;
+}
+
+
+#nu{
+    width:800px;
+    height:450px;
+    overflow:scroll;
+    
+}
+
+        .links{
+            
+             width:200px;
+        
+           
+          
+        
+            
+           
+        }
+        
+        .caveza{
+            width:200px;
+            border-radius: 10px 10px;
+            background-color: crimson;
+            color:cyan;
+             Float:left;
+            
+        }
+        
+        #area{
+             width:120px;
+            height: 180px;
+           border-radius:20px 20px 20px 20px;
+             background-color: lightseagreen;
+            
+          overflow: scroll;  
+             -webkit-transition: width 2s ; /* For Safari 3.1 to 6.0 */
+  transition: width 2s;
+        }
+        
+        
+        #area:hover{
+            width:500px;
+            
+             -webkit-transition: width 2s; /* For Safari 3.1 to 6.0 */
+  transition: width 2s;
+        }
+
+
+#root{
+    background-color: lightseagreen;
+    color:green;
+}
+
+
+
